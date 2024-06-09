@@ -1,0 +1,18 @@
+file_type: csv
+dataset_name: winequality-red
+file_name: winequality-red
+columns:
+- fixed_acidity
+- volatile_acidity
+- citric_acid
+- residual_sugar
+- chlorides
+- free_sulfur_dioxide
+- total_sulfur_dioxide
+- density
+- ph
+- sulphates
+- alcohol
+- quality
+separator: ;
+delimiter: ;
